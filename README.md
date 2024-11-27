@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project, built for a hackathon, is a **Next.js** application that tracks various health and environmental parameters to provide personalized sleep and wellness recommendations. The system uses **NodeMCU ESP8266** connected to sensors that gather **light, sound, temperature, humidity, and heart rate** data. This data is sent to the Next.js backend and processed using the **Gemini API**, which provides personalized recommendations. The project also features a **Gemini Chatbot** for interactive user support and a **video call** feature that allows users to connect with doctors for further consultation.
+This hackathon project is a **Next.js** application designed to monitor health and environmental metrics, offering tailored sleep and wellness recommendations. It integrates a **NodeMCU ESP8266** with sensors to collect data on **light, sound, temperature, humidity, and heart rate**, which is transmitted to the Next.js backend. The data is analyzed using the **Gemini API** to generate personalized suggestions. Additionally, the application includes a **Gemini Chatbot** for interactive user assistance and a **video call** feature, enabling users to consult with doctors directly.
 
 ---
 
